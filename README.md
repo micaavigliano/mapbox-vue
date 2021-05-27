@@ -1,30 +1,26 @@
-# app
+# Ceres Imaging - FrontEnd Engineer Candidate Screening
 
-> A Vue.js project
+### About the assigment
 
-## Build Setup
+- There's no right or wrong way to do it so take it easy.
+- You can spend as much time as you need but we don't want to take a lot of your time so do whatever you want or you can. To solve all items is not mandatory.
+- You can run the project locally or you can use Docker, either way is OK.
+- Code styling is important, you can use Prettier or any other tool to make it easier.
 
-``` bash
-# install dependencies
-npm install
+### How to do it
 
-# serve with hot reload at localhost:8080
-npm run dev
+1. Fork the repo
+1. Do your magic
+1. Push to your fork
+1. Create a PR to upstream
 
-# build for production with minification
-npm run build
+### Tasks
 
-# build for production and view the bundle analyzer report
-npm run build --report
+1. Create a form in the sidebar to submit filters to the endpoint including: `starttime`, `endtime` and `minmagnitude`
+1. Sidebar must autohide after form is submmited
+1. Add a Popup to the map to show info about clicked point including: `place`, `magnitude` and `time`
 
-# run unit tests
-npm run unit
+### Docs
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- [USGS API](https://earthquake.usgs.gov/fdsnws/event/1/#parameters)
+- [MapboxGLJS](https://docs.mapbox.com/mapbox-gl-js/api/)
