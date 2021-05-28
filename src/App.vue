@@ -2,7 +2,7 @@
   <v-app>
     <side-bar />
     <v-main>
-      <v-container fluid fill-height d-flex>
+      <v-container fluid fill-height d-flex pa-0>
         <main-map class="flex-grow-1 fill-height" />
       </v-container>
     </v-main>

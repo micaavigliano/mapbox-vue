@@ -1,7 +1,7 @@
 <template>
   <mapbox-map
     access-token="pk.eyJ1IjoibWF1cmltaXJhbmRhIiwiYSI6ImNqc3FsZ2JpaDE5OWI0NHA2dDI5aG5vdTcifQ.dQsXVmW2MgVsj0FhDrSeQA"
-    map-style="mapbox://styles/mapbox/streets-v11"
+    map-style="mapbox://styles/mapbox/light-v10"
     :center="[0, 0]"
     :zoom="2"
     @mb-created="(mapInstance) => (map = mapInstance)"
