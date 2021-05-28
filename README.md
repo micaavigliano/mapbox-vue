@@ -1,6 +1,8 @@
-# Ceres Imaging - FrontEnd Engineer Candidate Screening
+## Ceres Imaging
 
-### About the assigment
+# FrontEnd Engineer Candidate Screening
+
+### About the assignment
 
 - There's no right or wrong way to do it so take it easy.
 - You can spend as much time as you need but we don't want to take a lot of your time so do whatever you want or you can. To solve all items is not mandatory.
@@ -17,7 +19,7 @@
 ### Tasks
 
 1. Create a form in the sidebar to submit filters to the endpoint including: `starttime`, `endtime` and `minmagnitude`
-1. Sidebar must autohide after form is submmited
+1. Sidebar must auto-hide after form is submitted
 1. Add a Popup to the map to show info about clicked point including: `place`, `magnitude` and `time`
 
 ### Docs
