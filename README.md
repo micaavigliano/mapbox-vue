@@ -24,6 +24,9 @@
 1. Circle radius must be relative to the earthquake magnitude
 1. Add a Popup to the map to show info about clicked point including: `place`, `magnitude` and `time`
 
+![screenshot](https://user-images.githubusercontent.com/360260/120043690-cabf9780-bfe2-11eb-8771-8e5e79f025f7.png)
+
+
 ### Docs
 
 - [USGS API](https://earthquake.usgs.gov/fdsnws/event/1/#parameters)
