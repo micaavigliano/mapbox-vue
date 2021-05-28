@@ -27,5 +27,5 @@
 ### Docs
 
 - [USGS API](https://earthquake.usgs.gov/fdsnws/event/1/#parameters)
-- [MapboxGLJS](https://docs.mapbox.com/mapbox-gl-js/api/)
+- [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/)
 - [Vue Mapbox](https://vue-mapbox-gl.meta.fr/)
