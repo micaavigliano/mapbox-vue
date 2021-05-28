@@ -8,6 +8,7 @@
 - You can spend as much time as you need but we don't want to take a lot of your time so do whatever you want or you can. To solve all items is not mandatory.
 - You can run the project locally or you can use Docker, either way is OK.
 - Code styling is important, you can use Prettier, Vetur or any other tool to make it easier.
+- Basic scaffold application with Vue/Vuetify app is available. If you don't feel comformtable with it, you can start from scratch with React or any other toolset.
 
 ### How to do it
 

@@ -1,24 +1,24 @@
 <template>
   <v-app>
-    <side-bar/>
+    <side-bar />
     <v-main>
       <v-container fluid fill-height d-flex>
-        <main-map class="flex-grow-1 fill-height"/>
+        <main-map class="flex-grow-1 fill-height" />
       </v-container>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import MainMap from './components/Map';
-import SideBar from './components/SideBar';
+import MainMap from "./components/Map";
+import SideBar from "./components/SideBar";
 
 export default {
-  name: 'App',
+  name: "App",
 
   components: {
     SideBar,
-    MainMap
+    MainMap,
   },
 };
 </script>

@@ -20,7 +20,7 @@ export default {
       map: null,
       sourceOptions: {
         type: "geojson",
-        data: `https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson`,
+        data: "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson",
       },
       layerOptions: {
         type: "circle",

@@ -1,10 +1,9 @@
 <template>
-  <v-navigation-drawer app>
-  </v-navigation-drawer>
+  <v-navigation-drawer app> </v-navigation-drawer>
 </template>
 
 <script>
-  export default {
-    name: 'SideBar',
-  }
+export default {
+  name: "SideBar",
+};
 </script>
