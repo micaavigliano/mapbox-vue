@@ -4,12 +4,12 @@
 
 ### About the assignment
 
-- There's no right or wrong way to do it so take it easy.
-- You can spend as much time as you need but we don't want to take a lot of your time so do whatever you want or you can. To solve all items is not mandatory.
-- You can run the project locally or you can use Docker, either way is OK. If you use Docker please add the Dockefile.
-- Code styling is important, you can use Prettier or any other option.
-- Basic scaffold application with Vue/Vuetify app is available. If you don't feel comfortable with it, you can start from scratch with React or any other toolset.
-- You are able to use any tool/library that makes your work faster/easier.
+- There's no right or wrong way to complete this challenge - we want to see how you solve problems!
+- You can spend as much time as you need to complete this, but we don't want to take up too much of your time. Solving every problem isn't mandatory.
+- You can run the project locally or you can use Docker. If you use Docker please add the Dockerfile.
+- Code styling is important - you can use Prettier or any other option.
+- A basic scaffold application with Vue/Vuetify app is available. If you don't feel comfortable with vue, you can start from scratch with React or any other toolset.
+- You can use any tool/library that makes your work faster/easier.
 
 ### How to do it
 
